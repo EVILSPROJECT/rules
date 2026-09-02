@@ -6,6 +6,12 @@ sidebar_position: 13
 
 Luật zone tổng hợp là nơi tổng hợp luật cho các minigame chung kiểu khu vực nếu không có luật riêng biệt
 
+## Luật Rã Xe
+1. Trong phạm vi vòng tròn, các bên có thể chủ động bắn nhau trước mà không cần lý do ( chỉ áp dụng cho gang đấu với cảnh sát )
+2. Cho phép kéo combat ra ngoài đường cao tốc ( không được đi vào khu dân cư sa mạc hoặc về thành phố , vi phạm phạt tù 60 phút cho từng cá nhân )
+3. Nếu có 2 gang trở lên thì gang nào nổ súng trước mới được quyền ở lại bắn với cảnh sát , các gang hoặc cá nhân khác phải rời đi
+4. Cá nhân bắn thua đi tù 15p, cảnh sát thua thì rút về 30p sau được lên lại
+
 ## Luật ZONE / AIRDROP
 1. Cá nhân thuộc gang khác nametag thì không được team UP , khi bị tố cáo phải có record chứng minh , vi phạm 240 phút tù đối với toàn bộ cá nhân tham gia tình huống
 2. Cá nhân không thuộc gang nếu muốn chơi đồng đội thì chỉ được chơi cùng người không có nametag và buộc phải mặc ít nhất quần và áo giống ngoại hình nhau ( không được dùng các món đồ khác che lên ), vi phạm 240 phút ( đối với zone xịt sơn thì bắt buộc phải có nametag , không có nametag sẽ coi là cá nhân đơn lẻ)

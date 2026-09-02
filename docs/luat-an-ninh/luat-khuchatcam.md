@@ -5,6 +5,9 @@ sidebar_position: 4
 # 📚 Luật khu chất cấm
 
 khu chất cấm
+# Cảnh sát đi tuần
+1. Khi thành phố còn 4 cảnh sát trở xuống thì toàn bộ có thể đi tuần 1 mình ( ngoại trừ role học viên )
+2. Khi có từ 5 trở lên bắt buộc phải đi 2 người cho 1 bãi , cấp quản lý trở có thể đi 1 mình 
 
 ## Luật khu chất cấm
 1. Gang chung nametagg ≥ 4 người được tính là buôn số lượng lớn , muốn chiếm bãi ít nhất từ ( ≥ 4 ng) và đứng trong vùng đỏ mới đc tính.
