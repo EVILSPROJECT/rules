@@ -6,6 +6,13 @@ sidebar_position: 13
 
 Luật zone tổng hợp là nơi tổng hợp luật cho các minigame chung kiểu khu vực nếu không có luật riêng biệt
 
+## Luật rửa tiền
+1. Rửa tiền không được kéo combat trong thành phố hoặc khu dân cư tránh ảnh hưởng người khác
+2. 1 Gang được phép hộ tống tối đa 1 xe rửa tiền cùng lúc , nếu rửa chơi đơn lẻ bắn từ 2 người đổ xuống trong 1 tình huống thì không giới hạn số lượng xe rửa tiền 
+3. Khi cảnh sát thấy xe được hộ tống từ 3 ( tính cả ngồi trong xe và ở gần) thì cảnh sát được phép huy động toàn bộ lực lượng để chấn áp
+4. Rửa tiền nhỏ lẻ thua đi tù 15p , có hộ tống 30p , cảnh sát báo clear thua thì không được tuần tra rửa tiền trong 30 phút ( cảnh sát vi phạm phạt 90p tù ) 
+5. Khi đã xảy ra combat thì không được chạy đi xa nữa buộc phải kiếm 1 vị trí để combat tổng cho đến khi còn 1 bên ( xem sét phạt vi phạm 60 phút )
+
 ## Luật Rã Xe
 1. Trong phạm vi vòng tròn, các bên có thể chủ động bắn nhau trước mà không cần lý do ( chỉ áp dụng cho gang đấu với cảnh sát )
 2. Cho phép kéo combat ra ngoài đường cao tốc ( không được đi vào khu dân cư sa mạc hoặc về thành phố , vi phạm phạt tù 60 phút cho từng cá nhân )
