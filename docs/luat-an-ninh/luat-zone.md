@@ -26,5 +26,4 @@ Luật zone tổng hợp là nơi tổng hợp luật cho các minigame chung ki
 4. khi có thông báo hết sự kiện , các bên có 5 giây để dừng mọi tình huống , cố tình bắn tiếp chết người hoặc cố tình phá xe thì đi 120 phút
 5. Cho phép toxic trong khu vực đỏ airdrop , nhưng không được pbvm , xúc phạm người khác ngoài cá nhân trong game ( cho phép chửi thề )
 6. Cấm các hành vi non rp để lụm thính / xịt sơn ( vi phạm 360 phút )
-7. trong khu vực zone , crm té ngã nhưng không chết thì sẽ không tính là crm trừ trường hợp bị té xong bên khác bắn khi chưa đứng dậy kịp thì sẽ bị xử phạt 240 phút đối với người bắn cấm hành vi CRM E vi phạm phạt 240 phút tù
-8. đối với khu zone và xịt sơn chính thì sẽ là khu vực giết người mà không bị truy cứu miễn là tuân thủ các quy định về zone
+7. đối với khu zone và xịt sơn chính thì sẽ là khu vực giết người mà không bị truy cứu miễn là tuân thủ các quy định về zone

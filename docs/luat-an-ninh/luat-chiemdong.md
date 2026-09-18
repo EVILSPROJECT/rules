@@ -26,14 +26,7 @@ nếu cảm thấy mình bị 2 thế giới thì phải out combat ngay | phạ
 * cấm gỡ khu trên xe | phạt tù 240 phút và -2k điểm
 * cấm setup trong những object/prop sự kiện để lấy lợi thế ( phạt tù 240 phút và -1k điểm )
 * cấm sử dụng emote , trick trong combat ( vẫn cho phép roll nhanh , ngồi , đảo chân ) , vi phạm trừ 500 điểm mỗi cá nhân và phạt tù 240 phút
-4. CRM
 
-* CRM chết người | vi phạm phạt 500 điểm và xử phạt 240 phút
-* CRM té ngã xong bắn hoặc đồng đội mình bắn | vi phạm phạt 500 điểm và xử phạt 240 phút đối với người bắn
-* CRM văng gián tiếp chết người | vi phạm phạt 500 điểm và xử phạt 240 phút
-* CRM cố tình nhưng không chết ai phạt 500 điểm và xử phạt 240 phút
-* CRM người cầm | chết trừ 1k5 điểm , không chết 500 điểm , áp dụng thêm các luật CR trên
-* CRM điện đụng nếu người bị CR chưa chạm chân xuống đất thì không bị tính
 5. cầm setup xe , chặn xe không thể di chuyển ở chỗ gỡ hoặc đè xe lên chỗ gỡ gây bất lợi | vi phạm -2k điểm
 6. sau khi chat clear / stop thì các bên có tối đa 5 giây để dừng mọi combat
 * bắn xe : 240 phút

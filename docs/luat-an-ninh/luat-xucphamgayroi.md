@@ -28,7 +28,3 @@ xúc phạm gây rối
 * phạt tù 240 phút
 10. Giết người có lý do tự vệ khi bị cướp xe, bị chửi,... ( phải có bằng chứng ): đi tù 30 phút.
 11. Giết người không lý do: đi tù 240 phút.
-12. CRM tổng hợp:
-* crm hitbox văng nếu không chết sẽ không bị coi là crm , chết sẽ tính 60 phút
-* crm trực tiếp nếu chết ngay thì 240 phút , ngã xong chưa kịp đứng dậy bị bắn chết thì 240 phút , trường hợp đã đứng lên xong thì sẽ không tính crm
-* còn lại áp dụng linh hoạt luật CRM ở các chỗ khác
